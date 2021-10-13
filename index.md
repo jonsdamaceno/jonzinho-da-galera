@@ -5,7 +5,7 @@ Este artigo contém as informações necessárias para:
 - Criar uma nova lista de transmissão.
 - Acessar uma lista de transmissão já criada.
 
->:mega: Para criar uma lista de transmissão no WhatsApp você precisa ter uma conta válida e ativa, e ter o app do WhatsApp instalado no seu celular. A função de criar lista de transmissão não está disponível no WhatsApp Web e no WhatsApp para computador.
+> 📣 Para criar uma lista de transmissão no WhatsApp você precisa ter uma conta válida e ativa, e ter o app do WhatsApp instalado no seu celular. A função de criar lista de transmissão não está disponível no WhatsApp Web e no WhatsApp para computador.
 
 ## Criar Lista de transmissão
 1. Abra o Whatspp no celular.
@@ -31,7 +31,7 @@ Este artigo contém as informações necessárias para:
 - Adicionar e remover contatos.
 - Sair e apagar um grupo.
 
->:mega: Para criar um grupo no WhatsApp você precisa ter uma conta válida e ativa. Todas essas atividades listadas acima estão disponíveis nas três versões do WhatsApp.
+> 📣  Para criar um grupo no WhatsApp você precisa ter uma conta válida e ativa. Todas essas atividades listadas acima estão disponíveis nas três versões do WhatsApp.
 Para acessar sua conta no WhatsApp Web e no WhatsApp para computador, leia o artigo [Como conectar ou desconectar um aparelho](https://bit.ly/3ijQ6Ip).
 
 ## Criar grupo
@@ -58,7 +58,7 @@ Para acessar sua conta no WhatsApp Web e no WhatsApp para computador, leia o art
 Outra opção para a entrada de novos contatos é convidando via link.
 1. Com o grupo aberto, toque no nome do grupo. Ou toque e segure o nome do grupo na aba **CONVERSAS**, e em seguida toque em **Mais opções** ![três pontos no canto superior direito da tela](https://scontent.whatsapp.net/v/t39.8562-34/cp0/p50x50/118117430_995065920932265_1336446442210986426_n.jpg.webp?ccb=1-5&_nc_sid=8a74b9&_nc_ohc=KIqfokdGAkYAX81vzzK&_nc_ht=scontent.whatsapp.net&oh=7c3506052e2ac0a034d4f89a4682d2bb&oe=616C6DEF) > **Dados do grupo**.
 2. Toque em **Convidar via link** e selecione uma das opções oferecidas (**Enviar link via WhatsApp**, **Compartilhar link**, **Copiar link** ou **Código QR**).
-> :mega: Qualquer pessoa com acesso ao link poderá entrar no grupo sem a atorização prévia do admin.
+> 📣  Qualquer pessoa com acesso ao link poderá entrar no grupo sem a atorização prévia do admin.
 
 ## Remover contatos
 1. Com o grupo aberto, toque no nome o grupo. Ou toque e segure o nome do grupo na aba **CONVERSAS**, e em seguida toque em **Mais opções** ![três pontos no canto superior direito da tela](https://scontent.whatsapp.net/v/t39.8562-34/cp0/p50x50/118117430_995065920932265_1336446442210986426_n.jpg.webp?ccb=1-5&_nc_sid=8a74b9&_nc_ohc=KIqfokdGAkYAX81vzzK&_nc_ht=scontent.whatsapp.net&oh=7c3506052e2ac0a034d4f89a4682d2bb&oe=616C6DEF) > **Dados do grupo**.
